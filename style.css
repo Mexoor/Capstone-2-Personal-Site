@@ -1,0 +1,11 @@
+.background-img{
+    background-image: url("./img/sky.jpg");
+    
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.contact-img{
+    background-size: 150% 150%;
+    background-image: url("./img/Contact\ Me.jpg");
+}
